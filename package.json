@@ -1,0 +1,24 @@
+{
+  "name": "table2",
+  "version": "1.0.0",
+  "description": "Upgrade your <table>.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alixedi/table2.git"
+  },
+  "keywords": [
+    "table",
+    "pivot",
+    "reports"
+  ],
+  "author": "@alixedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alixedi/table2/issues"
+  },
+  "homepage": "https://github.com/alixedi/table2#readme"
+}
